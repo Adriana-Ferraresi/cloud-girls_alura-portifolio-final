@@ -2,7 +2,7 @@
 
 # Projeto Portifolio
 
-## Alura - Curso de HTML E CSS:cabeçalho,footer e variáveis CSS
+## Curso HTML E CSS:cabeçalho,footer e variáveis CSS
 
 ### Preparando o layout do projeto
 ### Criando ícones clicáveis
